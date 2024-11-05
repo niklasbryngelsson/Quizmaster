@@ -1,0 +1,14 @@
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\bin\Debug\net8.0\QuizMaster.exe
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\bin\Debug\net8.0\QuizMaster.deps.json
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\bin\Debug\net8.0\QuizMaster.runtimeconfig.json
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\bin\Debug\net8.0\QuizMaster.dll
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\bin\Debug\net8.0\QuizMaster.pdb
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\QuizMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\QuizMaster.AssemblyInfoInputs.cache
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\QuizMaster.AssemblyInfo.cs
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\QuizMaster.csproj.CoreCompileInputs.cache
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\QuizMaster.dll
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\refint\QuizMaster.dll
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\QuizMaster.pdb
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\QuizMaster.genruntimeconfig.cache
+C:\Users\NiklasBryngelsson\Övningar\QuizMaster\Quizmaster\QuizMaster\obj\Debug\net8.0\ref\QuizMaster.dll
